@@ -11,3 +11,4 @@ public class Pyramid {
         System.out.println("#");
     }
 }
+//went off from waslgh3 hw1
