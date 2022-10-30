@@ -1,0 +1,6 @@
+package HW1;
+public class Replace {
+    public String charReplace(String str, int index, char c) {
+        return charReplace(); // Got from hw1 walshg3.
+    }
+}
