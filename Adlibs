@@ -1,0 +1,5 @@
+package HW1;
+public class Adlibs {
+    public static String story(String name, int age, String favoriteColor) {
+    System.out.println("Hello my name is " + name + ", I am " + int + " years old, and my faovirte color is" + favoriteColor");
+    }
